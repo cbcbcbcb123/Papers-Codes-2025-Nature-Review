@@ -1,0 +1,84 @@
+文件 'A Conformational Switch in Vinculin Drives Formation and Dynamics of a Talin-Vinculin Complex at Focal Adhesions.txt'，关键词出现的总次数为：39
+  关键词 'frap' 出现的次数为：39
+  关键词 'lgic' 出现的次数为：0
+
+文件 'A glue for heterochromatin maintenance stable SUV39H1 binding to heterochromatin is reinforced by the SET domain.txt'，关键词出现的总次数为：35
+  关键词 'frap' 出现的次数为：35
+  关键词 'lgic' 出现的次数为：0
+
+文件 'Actin and myosin dynamics are independent during Drosophila embryonic wound repair.txt'，关键词出现的总次数为：23
+  关键词 'frap' 出现的次数为：23
+  关键词 'lgic' 出现的次数为：0
+
+文件 'Actin kinetics shapes cortical network structure and mechanics.txt'，关键词出现的总次数为：20
+  关键词 'frap' 出现的次数为：20
+  关键词 'lgic' 出现的次数为：0
+
+文件 'An evolutionarily conserved NPC subcomplex, which redistributes in part to kinetochores in mammalian cells.txt'，关键词出现的总次数为：16
+  关键词 'frap' 出现的次数为：16
+  关键词 'lgic' 出现的次数为：0
+
+文件 'a-Actinin Is Required for Tightly Regulated Remodeling of the Actin Cortical Network during Cytokinesis.txt'，关键词出现的总次数为：12
+  关键词 'frap' 出现的次数为：12
+  关键词 'lgic' 出现的次数为：0
+
+文件 'Altering integrin engagement regulates membrane localizationof Kir2.1 channels.txt'，关键词出现的总次数为：10
+  关键词 'frap' 出现的次数为：10
+  关键词 'lgic' 出现的次数为：0
+
+文件 'Activity-regulated N-cadherin endocytosis.txt'，关键词出现的总次数为：6
+  关键词 'frap' 出现的次数为：6
+  关键词 'lgic' 出现的次数为：0
+
+文件 'Actin cap associated focal adhesions and their distinct role in cellular mechanosensing.txt'，关键词出现的总次数为：3
+  关键词 'frap' 出现的次数为：3
+  关键词 'lgic' 出现的次数为：0
+
+文件 'An intrinsically disordered region controlling condensation of a circadian clock component and rhythmic transcription in the liver.txt'，关键词出现的总次数为：3
+  关键词 'frap' 出现的次数为：3
+  关键词 'lgic' 出现的次数为：0
+
+文件 'A comparative molecular force spectroscopystudy of homophilic JAM-A interactions and JAM-A interactions with reovirus attachment protein.txt'，关键词出现的总次数为：0
+  关键词 'frap' 出现的次数为：0
+  关键词 'lgic' 出现的次数为：0
+
+文件 'A mathematical analysis of focal adhesion lifetimes and their effect on cell motility.txt'，关键词出现的总次数为：0
+  关键词 'frap' 出现的次数为：0
+  关键词 'lgic' 出现的次数为：0
+
+文件 'A mechanically stabilized receptor–ligand flex-bond important in the vasculature.txt'，关键词出现的总次数为：0
+  关键词 'frap' 出现的次数为：0
+  关键词 'lgic' 出现的次数为：0
+
+文件 'A paxillin tyrosine phosphorylation switch regulates the assembly and form of cell-matrix adhesions.txt'，关键词出现的总次数为：0
+  关键词 'frap' 出现的次数为：0
+  关键词 'lgic' 出现的次数为：0
+
+文件 'Aberrant chromatin reorganization in cells from diseased fibrous connective tissue in response to altered chemomechanical cues.txt'，关键词出现的总次数为：0
+  关键词 'frap' 出现的次数为：0
+  关键词 'lgic' 出现的次数为：0
+
+文件 'Accumulation of Dynamic Catch Bonds between TCR and Agonist Peptide-MHC Triggers T Cell Signaling.txt'，关键词出现的总次数为：0
+  关键词 'frap' 出现的次数为：0
+  关键词 'lgic' 出现的次数为：0
+
+文件 'Actin and α-actinin orchestrate the assembly and maturation of nascent adhesions in a myosin II motor-independent manner.txt'，关键词出现的总次数为：0
+  关键词 'frap' 出现的次数为：0
+  关键词 'lgic' 出现的次数为：0
+
+文件 'Actin depolymerization under force is governed by lysine 113glutamic acid 195-mediated catch-slip bonds.txt'，关键词出现的总次数为：0
+  关键词 'frap' 出现的次数为：0
+  关键词 'lgic' 出现的次数为：0
+
+文件 'Activation of integrins in endothelial cells by fluid shear stress mediates Rho-dependent cytoskeletal alignment.txt'，关键词出现的总次数为：0
+  关键词 'frap' 出现的次数为：0
+  关键词 'lgic' 出现的次数为：0
+
+文件 'Activation of Rac1 by shear stress in endothelial cells mediates both cytoskeletal reorganization and effects on gene expression.txt'，关键词出现的总次数为：0
+  关键词 'frap' 出现的次数为：0
+  关键词 'lgic' 出现的次数为：0
+
+文件 'An integrin αIIbβ3 intermediate affinity state mediates biomechanical platelet aggregation.txt'，关键词出现的总次数为：0
+  关键词 'frap' 出现的次数为：0
+  关键词 'lgic' 出现的次数为：0
+
